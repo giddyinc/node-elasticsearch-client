@@ -14,7 +14,7 @@
   "version": "0.5.1",
   "repository": {
     "type": "git",
-    "url": "git@github.com/giddyinc/node-elasticsearch-client.git"
+    "url": "git://github.com/phillro/node-elasticsearch-client.git"
   },
   "main": "./index.js",
   "engines": {
@@ -38,6 +38,6 @@
   "dist": {
     "shasum": "82bf9f56e3c0d666cc62b3f1e9a0f686679cc0f3"
   },
-  "_resolved": "git@github.com/giddyinc/node-elasticsearch-client.git#6606fa2d10e0bd5ebd953df18926c778bb4f1430",
+  "_resolved": "git://github.com/giddyinc/node-elasticsearch-client.git#300f1d0d7cd9ca19c7431e2bff219cda9ed5b6c2",
   "_from": "elasticsearchclient@git://github.com/giddyinc/node-elasticsearch-client.git"
 }
